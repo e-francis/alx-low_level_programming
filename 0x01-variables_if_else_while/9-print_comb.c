@@ -2,7 +2,6 @@
 
 /**
  * main - a program that prints all possible combinations of single-digit numbers from 0 t0 9
- *followed by separated by commas, followed by a space
  * Return: Always 0 (Success)
  */
 
