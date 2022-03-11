@@ -11,7 +11,7 @@ int n = 122;
 while (n > 96)
 {
 putchar(n);
-n --;
+n--;
 }
 putchar('\n');
 return (0);
